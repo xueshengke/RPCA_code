@@ -2,7 +2,7 @@
 % Contact information: see readme.txt
 %% clear
 clear;
-close all;
+% close all;
 clc;
 
 %% addpath
@@ -47,10 +47,10 @@ para.tol = 1e-7;       % stop iteration threshold
 para.maxIter = 1000;   % maximum iteration
 para.lambdac = 1 ;     % lambda = lambdac / sqrt(m) for ||E||_1
 
-imageNum = 100;       % image number for each category
+imageNum = 100;        % image number for each category
 para.imageNum = imageNum;
 para.classNum = classNum;
-para.noise_ratio = 0.1;   % 0, 0.1, 0.2, 0.3
+para.noise_ratio = 0.2;   % 0, 0.1, 0.2, 0.3
 
 %% get image groups
 [ ImageMat ] = get_images_MNIST(imagePath, para);

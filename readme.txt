@@ -33,6 +33,6 @@ If you have any questions about this implementation, please do not hesitate to c
 
 Xue Shengke, 
 College of Information Science and Electronic Engineering,
-Zhejiang University, P. R. China
+Zhejiang University, P. R. China,
 e-mail: (either one is o.k.)
-xueshengke@zju.edu.cn, or xueshengke1993@gmail.com
+xueshengke@zju.edu.cn, or xueshengke1993@gmail.com.
