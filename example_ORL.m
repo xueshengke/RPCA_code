@@ -1,7 +1,9 @@
-% Xue Shengke, Zhejiang University, March 2017. 
+% Shengke Xue, Zhejiang University, March 2017. 
 % Contact information: see readme.txt
 %% clear
 clear;
+close all;
+clc;clear;
 close all;
 clc;
 

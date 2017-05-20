@@ -1,5 +1,5 @@
 This code is a simple implementation of RPCA.
-By Xue Shengke, Zhejiang University, March 2017.
+By Shengke Xue, Zhejiang University, March 2017.
 
 You may start an example by directly running 'example_*.m' for various datasets.
 |--------------
@@ -31,7 +31,7 @@ For algorithm details, please read the RPCA paper, which explains more details.
 
 If you have any questions about this implementation, please do not hesitate to contact us. 
 
-Shengke Xue, 
+Ph.D. Candidate, Shengke Xue, 
 College of Information Science and Electronic Engineering,
 Zhejiang University, Hangzhou, P. R. China,
 e-mail: (either one is o.k.)
